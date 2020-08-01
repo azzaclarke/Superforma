@@ -1,2 +1,2 @@
 Test
-new new 2
+new new 2 2
